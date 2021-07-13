@@ -17,7 +17,7 @@ nav{
 }
 nav h1{
     color: #717171;
-    font-family: 'Playfair Display', serif;
+    font-family: 'Varela Round', sans-serif;
     font-size: 30px;
 }
 nav .onglets{
@@ -42,7 +42,7 @@ header{
     padding: 40px;
 }
 header h1{
-    font-family: 'Valera Round', serif;
+    font-family: 'Varela Round', sans-serif;
     font-size: 50px;
 }
 header h4{
